@@ -11,4 +11,4 @@ low cost, and that’s by monitoring Security Guards and proving their presence 
 their shifts via internal QR codes in buildings that they will scan and use a authentication
 technique to recognize their identity ,it also provides Scheduling Patrolling system 
 according to prioritized regions to guarantee higher safety where needed ,finally dealing 
-with lost luggage and reporting emergencie
+with lost luggage and reporting emergencies.
